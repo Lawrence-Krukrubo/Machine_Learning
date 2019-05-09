@@ -18,7 +18,7 @@ Major machine Learning techniques include
 
 8. Recommendation Systems: This associates peoples preferences with others that have similar tastes and recommends new items to them, such as movies
 
-Differences between Artificial Intelligence, Machine Learning and Deep Learning
+Differences between Artificial Intelligence, Machine Learning and Deep Learning<br>
 Artificial Intelligence:
 AI tries to make computers intelligent in order to mimic the cognitive functions of humans. So AI is a general field with a broad scope including
 
