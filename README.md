@@ -1,32 +1,33 @@
 # Machine_Learning
 **Machine learning** is the sub-field of Computer Science, that gives Computers the ability to learn without being explicitly programmed (Arthur samuel, American pioneer in the field of Computer gaming and AI , coined the term Machine Learning in 1959, while at IBM )
 
-<font color='red'>Major machine Learning techniques include</font>
-1. Regression / Estimation: Predicting continous values, E.G the price of a house based on its characteristics
+## Major machine Learning Techniques include:
+1. _**Regression / Estimation:**_ Predicting continous values, E.G the price of a house based on its characteristics
 
-2. Classification: Predicting the item class/category of a case. E.G if an email is spam or not spam
+2. _**Classification:**_ Predicting the item class/category of a case. E.G if an email is spam or not spam
 
-3. Clustering: Finding the structure of Data/Summarisation... Finding hidden or unseen patterns in a Data Set... could be used for customer segmentation.
+3. _**Clustering:**_ Finding the structure of Data/Summarisation... Finding hidden or unseen patterns in a Data Set... could be used for customer segmentation.
 
-4. Associations: Association technique is used for finding items or events that often co-occur. for example grocery items bought together by customers.
+4. _**Associations:**_ Association technique is used for finding items or events that often co-occur. for example grocery items bought together by customers.
 
-5. Anomaly Detection: Discovering abnormal or unusual cases. For example used for credit card fraud detection.
+5. -**Anomaly Detection:**_ Discovering abnormal or unusual cases. For example used for credit card fraud detection.
 
-6. Sequence Mining: Used for predicting Next-Events, for instance the click-stream in websites.
+6. _**Sequence Mining:**_ Used for predicting Next-Events, for instance the click-stream in websites.
 
-7. Dimension reduction: Used for reducing the size of Data(PCA)
+7. _**Dimension reduction:**_ Used for reducing the size of Data(PCA)
 
-8. Recommendation Systems: This associates peoples preferences with others that have similar tastes and recommends new items to them, such as movies
+8. _**Recommendation Systems:**_ This associates peoples preferences with others that have similar tastes and recommends new items to them, such as movies
 
-Differences between Artificial Intelligence, Machine Learning and Deep Learning<br>
-Artificial Intelligence:
+## Differences between Artificial Intelligence, Machine Learning and Deep Learning<br>
+_**Artificial Intelligence:**_
 AI tries to make computers intelligent in order to mimic the cognitive functions of humans. So AI is a general field with a broad scope including
 
 Computer Vision
 Language Processing
 Creativity
 E.T.C
-Machine Learning:
+
+_**Machine Learning:**_
 ML is the branch of AI that covers the Statistical part of AI. It teaches computers to solve problems by looking at 100s or 1000s of examples, learning from them and using that experience to solve similar problems in new situations. 
 
 Classification
